@@ -1,0 +1,28 @@
+player -3
+player -2
+player -1
+0 || 0 - live 6 check 0 [1536] Cycle to die is now 1536 (1)(6)
+[3072] Process 6 was killed (CTD 1536)
+[3072] Process 5 was killed (CTD 1536)
+[3072] Process 4 was killed (CTD 1536)
+1 || 0 - live 21 check 1 [3072] Cycle to die is now 1486 (1)(21)
+[4558] Process 30 was killed (CTD 1486)
+[4558] Process 29 was killed (CTD 1486)
+[4558] Process 28 was killed (CTD 1486)
+[4558] Process 27 was killed (CTD 1486)
+[4558] Process 26 was killed (CTD 1486)
+[4558] Process 25 was killed (CTD 1486)
+[4558] Process 18 was killed (CTD 1486)
+[4558] Process 17 was killed (CTD 1486)
+[4558] Process 16 was killed (CTD 1486)
+[4558] Process 12 was killed (CTD 1486)
+[4558] Process 11 was killed (CTD 1486)
+[4558] Process 10 was killed (CTD 1486)
+[4558] Process 9 was killed (CTD 1486)
+[4558] Process 8 was killed (CTD 1486)
+[4558] Process 7 was killed (CTD 1486)
+1 || 0 - live 36 check 1 [4558] Cycle to die is now 1436 (1)(36)
+[4905] 43 fait un live {3164}[5721] 43 fait un live {3180}[5994] Le fdp a 2 live | reset = 0
+1 || 0 - live 192 check 1 [5994] Cycle to die is now 1386 (1)(192)
+[6581] 43 fait un live {3200}[6591] 43 fait un live {3205}[6654] 43 fait un live {3225}[6713] 43 fait un live {3264}[6723] 43 fait un live {3269}[6803] 43 fait un live {3289}[6862] 43 fait un live {3328}[6872] 43 fait un live {3333}[6998] 43 fait un live {3385}[7027] 43 fait un live {3403}[7101] 43 fait un live {3444}[7153] 43 fait un live {3469}[7261] 43 fait un live {3532}[7378] 43 fait un live {3577}[7380] Le fdp a 14 live | reset = 0
+1 || 0 - live 1774 check 1 [7380] Cycle to die is now 1336 (1)(1774)

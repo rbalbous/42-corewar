@@ -1,0 +1,41 @@
+.TH man 6 "June 20, 2018" "1.0" "COREWAR"
+.SH NAME
+.IP
+COREWAR
+.SH SYNOPSIS
+.IP
+corewar [-dump nb -v -q -k] [-n num] champion1 [[-n num] champion2 ...]
+.IP
+asm [-d] champion.s ...
+.SH DESCRIPTION
+.IP
+Corewar is a virtual arena where 1 to 4 champions (programs) will fight to death in the same memory. Only the last one to make a "live" instruction win the game. All the champions have to be written in a custom assembly code and be compiled with the corewar's asm.
+.SH OPTIONS ASM
+.IP "-d"
+Dump the champion bytecode.
+.SH OPTIONS COREWAR
+.IP "-n     [num]"
+The next champion will have [num] as his number.
+.IP "-dump  [nb]"
+Dump the memory at [nb] cycles and ends the simulation or pause it if the option -v is specified.
+.IP "-v"
+Enable visual mode.
+.IP "-k"
+Show killed process.
+.IP "-q"
+Quiet mode.
+.SH KEY BINDING FOR VISUAL MODE
+.IP "Space"
+Pause/Play the game.
+.IP "Right Arrow"
+Switch to the next cycle.
+.IP "d"
+Only available with -v option, dump the memory at the current cycle.
+.IP "h"
+Display help menu.
+.SH BUGS
+.IP
+No bugs ez pz lemon squiz.
+.SH AUTHOR
+.IP
+ARJB
